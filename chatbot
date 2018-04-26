@@ -1,0 +1,8 @@
+let firstname = prompt('Enter your firstname');
+let lastname = prompt('Enter your last name');
+let age = prompt('Enter your age');
+let color = prompt('Enter your favorite color');
+let number = prompt('Enter your favorite number');
+let food = prompt('Enter your favorite food');
+
+alert('Hey ' + firstname + ' ' + lastname + ' you are ' + age + ', your favorite color is ' + color + ', your favorite number is ' + number + ', your favorite food is ' + food + ', and it is been really nice to meet you!');
