@@ -1,0 +1,4 @@
+let age = prompt('Enter your age');
+document.write(age *= 7);
+
+alert('You are ' + age + ' in dog years .');
